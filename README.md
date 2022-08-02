@@ -54,4 +54,4 @@ format-padding = 2
 modules-left = dropbox spotify previous playpause next
 ```
 
-![Dropbox Up To Date](./img/dpx.png)
+![Dropbox Up To Date](dpx.png)
